@@ -1,0 +1,80 @@
+.scroll-watcher {
+    position: fixed;
+    background-color: gold;
+    top: 0;
+    width: 100%;
+    height: 3px;
+    z-index: 1000;
+    scale: 0 1;
+    transform-origin: center;
+
+    animation: scroll-watcher linear;
+    animation-timeline: scroll();
+}
+
+@keyframes scroll-watcher {
+    to { scale: 1 1;}
+}
+
+.navbar-brand {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+}
+
+body {
+    background: black;
+}
+
+h2 {
+    color: #666;
+    font-family: monospace;
+    text-align: center;
+}
+
+.background {
+    table-layout: fixed;
+    border-spacing: 0;
+}
+
+.background td {
+    padding: 0;
+}
+
+.lava,
+.actor {
+    background: #e55;
+}
+
+.wall {
+    background: #444;
+    border: solid 3px #333;
+    box-sizing: content-box;
+}
+
+.actor {
+    position: absolute;
+}
+
+.coin {
+    background: #e2e838;
+    border-radius: 50%;
+}
+
+.player {
+    background: #335699;
+    box-shadow: none;
+}
+
+.lost .player {
+    background: #a04040;
+}
+
+.won .player {
+    background: green;
+}
+
+.game {
+    position: relative;
+    overflow: hidden;
+}
