@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sune.
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)
 ![Reactjs](https://img.shields.io/badge/Reactjs-Expert-blue)
 ![Django](https://img.shields.io/badge/Django-Intermediate-green)
 ![Nextjs](https://img.shields.io/badge/Nextjs-Intermediate-lightgrey)
