@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on NextJs.
 - 🌱 I’m currently learning to stay out of bugs.
 - 👯 Computer Science Ethusiast
-- ⚡ Fact about Sune: The last podcast I listened was the different between Null and Undefined in Javascrip. 
+- ⚡ Fact about Sune: The last podcast I listened was Search Engine. 
 
 
 ### Top Languages and Frameworks
