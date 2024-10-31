@@ -8,8 +8,8 @@
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 
 
-- 🏢 I'm currently working at **Peer-to-Peer lending platform for small businesses **
-- 🌱 Learn all about **Startup Peer-to-Peer business for your businesses and Financial Market  **
+- 🏢 I'm currently working at **Enterprise Resources Planning (ERP) System**
+- 🌱 Learn all about **Startup Ecosystem and Financial Networks**
 - 🔭 I’m currently working on NextJs.
 - 🌱 I’m currently learning to stay out of bugs.
 - 👯 Computer Science Ethusiast
