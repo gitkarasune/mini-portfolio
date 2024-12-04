@@ -8,17 +8,17 @@
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 
 
-- 🏢 I'm currently working at **Enterprise Resources Planning (ERP) System**
-- 🌱 Learn all about **Startup Ecosystem and Financial Networks**
-- 🔭 I’m currently working on NextJs.
+- 🏢 I'm currently working at **JSscript**
+- 🌱 Learn all about **The Secret of JavaScript and Build Real-World project with Expert Javascript Guidance**
+- 🔭 I’m currently working on NextJs, and JSscript.
 - 🌱 I’m currently learning to stay out of bugs.
 - 👯 Computer Science Ethusiast
-- ⚡ Fact about Sune: The last podcast I listened was Search Engine. 
+- ⚡ Fact about Sune: Love Playing Football. 
 
 
 ### Top Languages and Frameworks
 
--[Top Langs and Frameworks] JavaScript, ReactJs, Django, Python, and TailwindCss
+-[Top Langs and Frameworks] JavaScript, ReactJs, NodeJS, Python, Typescript, and TailwindCss
 
 
 ### Reach me here
