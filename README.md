@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on NextJs, and JSscript.
 - 🌱 I’m currently learning to stay out of bugs.
 - 👯 Computer Science Ethusiast
-- ⚡ Fact about Sune: Love Playing Football. 
+- ⚡ Fact about Sune: JavaScriptis Everywhere. Its runs not only in a browser but also on a server, Thanks to Node.js 💻. 
 
 
 ### Top Languages and Frameworks
